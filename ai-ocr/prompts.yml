@@ -1,0 +1,6 @@
+intern-vl2-26b:
+  prompt:
+    v1:  # For the custom VQA dataset
+      - |
+        Recognized text with errors: {ocr}
+        What are the operation_datetime, operation_sum, sender_bank, recepient_account, and recepient_telnum in the image?
